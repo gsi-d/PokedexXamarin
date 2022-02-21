@@ -1,0 +1,15 @@
+C:\Users\vlnote15\source\repos\PokedexXamarin\PokedexXamarin\PokedexXamarin\obj\Debug\netstandard2.0\PokedexXamarin.csproj.AssemblyReference.cache
+C:\Users\vlnote15\source\repos\PokedexXamarin\PokedexXamarin\PokedexXamarin\obj\Debug\netstandard2.0\PokedexXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlnote15\source\repos\PokedexXamarin\PokedexXamarin\PokedexXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vlnote15\source\repos\PokedexXamarin\PokedexXamarin\PokedexXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\vlnote15\source\repos\PokedexXamarin\PokedexXamarin\PokedexXamarin\obj\Debug\netstandard2.0\PokedexXamarin.AssemblyInfoInputs.cache
+C:\Users\vlnote15\source\repos\PokedexXamarin\PokedexXamarin\PokedexXamarin\obj\Debug\netstandard2.0\PokedexXamarin.AssemblyInfo.cs
+C:\Users\vlnote15\source\repos\PokedexXamarin\PokedexXamarin\PokedexXamarin\obj\Debug\netstandard2.0\PokedexXamarin.csproj.CoreCompileInputs.cache
+C:\Users\vlnote15\source\repos\PokedexXamarin\PokedexXamarin\PokedexXamarin\obj\Debug\netstandard2.0\PokedexXamarin.dll
+C:\Users\vlnote15\source\repos\PokedexXamarin\PokedexXamarin\PokedexXamarin\obj\Debug\netstandard2.0\ref\PokedexXamarin.dll
+C:\Users\vlnote15\source\repos\PokedexXamarin\PokedexXamarin\PokedexXamarin\obj\Debug\netstandard2.0\PokedexXamarin.pdb
+C:\Users\vlnote15\source\repos\PokedexXamarin\PokedexXamarin\PokedexXamarin\bin\Debug\netstandard2.0\PokedexXamarin.deps.json
+C:\Users\vlnote15\source\repos\PokedexXamarin\PokedexXamarin\PokedexXamarin\bin\Debug\netstandard2.0\PokedexXamarin.dll
+C:\Users\vlnote15\source\repos\PokedexXamarin\PokedexXamarin\PokedexXamarin\bin\Debug\netstandard2.0\ref\PokedexXamarin.dll
+C:\Users\vlnote15\source\repos\PokedexXamarin\PokedexXamarin\PokedexXamarin\bin\Debug\netstandard2.0\PokedexXamarin.pdb
+C:\Users\vlnote15\source\repos\PokedexXamarin\PokedexXamarin\PokedexXamarin\obj\Debug\netstandard2.0\XamlC.stamp
